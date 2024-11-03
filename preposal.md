@@ -6,8 +6,8 @@ TODO
 
 ## If you plan to collaborate with one or two classmates, what are their names?
 
--
+none
 
 ## Do you have any questions of your own?
 
--
+none
