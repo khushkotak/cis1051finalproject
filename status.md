@@ -2,15 +2,15 @@
 
 #### Your name
 
-TODO
+Khush Kotak
 
 #### Your section leader's name
 
-TODO
+Khush Kotak
 
 #### Project title
 
-TODO
+Blackjack in python
 
 ***
 
@@ -18,12 +18,12 @@ Short answers for the below questions suffice. If you want to alter your plan fo
 
 #### What have you done for your project so far?
 
-TODO
+I have worked on the logic of my game. The credit system is also working!
 
 #### What have you not done for your project yet?
 
-TODO
+Making the game have a graphical interface
 
 #### What problems, if any, have you encountered?
 
-TODO
+learning how to use pygame
