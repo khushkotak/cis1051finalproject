@@ -318,7 +318,7 @@ def inferno_slots(bankroll):
 
 def first_menu():
     clearConsole()
-    print(Fore.CYAN + "🔥🔥----[Welcome to Casino Royale]----🔥🔥\n")
+    print(Fore.CYAN + "🔥🔥----[Welcome to Python Casino]----🔥🔥\n")
     bankroll = int(input(Fore.YELLOW + "Please deposit funds: $"))
     main_menu(bankroll)
 
